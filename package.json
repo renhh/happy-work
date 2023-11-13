@@ -3,7 +3,7 @@
   "displayName": "HappyWork",
   "icon": "public/images/Easier.png",
   "description": "",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.58.1"
   },
